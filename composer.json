@@ -1,0 +1,13 @@
+{
+    "name": "geodiversite/squelettes",
+    "description": "Squelettes du projet Géodiversité",
+    "type": "spip-plugin",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Bruno Bergot",
+            "email": "brunobergot@gmail.com"
+        }
+    ],
+    "require": {}
+}
